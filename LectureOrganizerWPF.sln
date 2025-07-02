@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LectureOrganizerWPF", "LectureOrganizerWPF\LectureOrganizerWPF.csproj", "{7A66E2D1-C7E5-4D06-81F6-67C27A2A7852}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A66E2D1-C7E5-4D06-81F6-67C27A2A7852}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A66E2D1-C7E5-4D06-81F6-67C27A2A7852}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A66E2D1-C7E5-4D06-81F6-67C27A2A7852}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A66E2D1-C7E5-4D06-81F6-67C27A2A7852}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C17549F4-2B0E-47A0-B697-6BE1D4A42064}
+	EndGlobalSection
+EndGlobal
